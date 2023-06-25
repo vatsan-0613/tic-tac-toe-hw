@@ -130,4 +130,5 @@ const nextMatch = () => {
   });
   winTurnDraw.innerHTML = 'It\'s <span class="chance">Your</span> Turn';
   win = false;
+  play = "p1";
 };
